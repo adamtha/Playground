@@ -1,0 +1,40 @@
+# SVN files
+.svn/
+
+## VS files
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.sln.cache
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# StyleCop files
+[Ss]tyle[Cc]op.*
+
+# ReSharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JustCode files
+.JustCode
+
+# TeamCity files
+_TeamCity*
+
+# DotCover files
+*.dotCover
+
+# NuGet Packages
+packages/*
